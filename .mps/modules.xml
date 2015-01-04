@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/de.voelter.natlang.action/de.voelter.natlang.action.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/de.voelter.natlang.core/de.voelter.natlang.core.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/de.voelter.natlang.core/sandbox/de.voelter.natlang.core.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/de.voelter.natlang.data/de.voelter.natlang.data.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/de.voelter.natlang.toplevel/de.voelter.natlang.toplevel.mpl" folder="" />
+    </projectModules>
+  </component>
+</project>
+
