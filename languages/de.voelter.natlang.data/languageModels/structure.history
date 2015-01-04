@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="zjs1" modelUID="r:da6a71ea-e083-4ea3-ad69-98fd40279d55(de.voelter.natlang.data.structure)" version="-1" />
+    </dependencies>
+    <rename id="zjs1.6683257242478942669" type="CONCEPT" from="Test" to="ParamRefWord" />
+  </StructureModification>
+</history>
+

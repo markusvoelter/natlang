@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="re4z" modelUID="r:802ab052-cefa-4461-915c-b9ac5fad8fcc(de.voelter.natlang.core.structure)" version="-1" />
+    </dependencies>
+    <rename id="re4z.6683257242467094871" type="CONCEPT" from="DefiniteNounClause" to="DefiniteArticleClause" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="re4z" modelUID="r:802ab052-cefa-4461-915c-b9ac5fad8fcc(de.voelter.natlang.core.structure)" version="0" />
+    </dependencies>
+    <rename id="re4z.6683257242463897917" type="CONCEPT" from="IndefiniteNounClause" to="IndefiniteArticleClause" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="re4z" modelUID="r:802ab052-cefa-4461-915c-b9ac5fad8fcc(de.voelter.natlang.core.structure)" version="1" />
+    </dependencies>
+    <rename id="re4z.6683257242472284346" type="CONCEPT" from="Qualifier" to="RelativeClause" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="re4z" modelUID="r:802ab052-cefa-4461-915c-b9ac5fad8fcc(de.voelter.natlang.core.structure)" version="2" />
+    </dependencies>
+    <rename id="re4z.6683257242472828248" type="CONCEPT" from="RelativeWho" to="RelativeWhose" />
+  </StructureModification>
+</history>
+
